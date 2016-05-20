@@ -1,3 +1,8 @@
+<a href="https://scan.coverity.com/projects/rdagher-wsn430">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/8923/badge.svg"/>
+</a>
+
 IoT-LAB Git repository
 ======================
 
